@@ -1,0 +1,1594 @@
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/arara-caninde.html ###
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Arara-canindé - Mundo Animal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🦜 Arara-canindé</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Início 🏠</a></li>
+        <li><a href="tigres.html">Tigres 🐅</a></li>
+        <li><a href="onca-pintada.html">Onça-Pintada 🐆</a></li>
+        <li><a href="lobos.html">Lobos 🐺</a></li>
+        <li><a href="camaleao.html">Camaleão 🦎</a></li>
+        <li><a href="canguru-vermelho.html">Canguru Vermelho 🦘</a></li>
+        <li><a href="lince-canadense.html">Lince Canadense 🐈‍⬛</a></li>
+        <li><a href="lemure.html">Lêmure 🐒</a></li>
+        <li><a href="esquilo.html">Esquilo 🐿️</a></li>
+        <li><a href="leao.html">Leão 🦁</a></li>
+        <li><a href="cavalo-marinho.html">Cavalo-marinho 🐠</a></li>
+        <li><a href="pinguim-imperador.html">Pinguim-Imperador 🐧</a></li>
+        <li><a href="lagartixa-leopardo.html">Lagartixa-leopardo 🦎</a></li>
+        <li><a href="lagartixa-azul-eletrica.html">Lagartixa Azul Elétrica 🦎</a></li>
+        <li><a href="lagartixa-ana.html">Lagartixa Ana 🦎</a></li>
+        <li><a href="lagartixa-tocai.html">Lagartixa Tokay 🦎</a></li>
+        <li><a href="crocodilo-australiano.html">Crocodilo Australiano 🐊</a></li>
+        <li><a href="golfinho.html">Golfinho 🐬</a></li>
+        <li><a href="falcao-peregrino.html">Falcão-peregrino 🦅</a></li>
+        <li><a href="harpia.html">Harpia 🦅</a></li>
+        <li><a href="bem-te-vi.html">Bem-te-vi 🐦</a></li>
+        <li><a href="pombo.html">Pombo 🕊️</a></li>
+        <li><a href="arara-caninde.html">Arara-canindé 🦜</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <article>
+      <h2>Sobre a Arara-canindé</h2>
+      <img src="images/arara-caninde.jpg" alt="Arara-canindé" class="animal-image">
+      <ul class="facts">
+        <li><strong>Habitat:</strong> florestas tropicais e galerias próximas a rios na Amazônia e Cerrado.</li>
+        <li><strong>Alimentação:</strong> sementes, frutos e castanhas; usa o bico forte para quebrar cascas duras.</li>
+        <li><strong>Tipo de nascimento:</strong> ovíparo.</li>
+        <li><strong>Tempo de gestação:</strong> incubação de 24 a 28 dias.</li>
+        <li><strong>Quantidade de filhotes:</strong> 2 a 3 ovos por ninhada.</li>
+        <li><strong>Desafio de vida:</strong> perda de habitat e captura para comércio ilegal.</li>
+        <li><strong>Curiosidades:</strong> vivem em pares ou bandos barulhentos; podem viver mais de 30 anos.</li>
+        <li><strong>Peso e tamanho médio:</strong> 1–1,3 kg; 76–86 cm de comprimento com a cauda.</li>
+      </ul>
+    </article>
+  </section>
+  <footer>
+    <p>&copy; 2025 Mundo Animal</p>
+  </footer>
+</body>
+</html>
+
+
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/bem-te-vi.html ###
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bem-te-vi - Mundo Animal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🐦 Bem-te-vi</h1>
+        <nav>
+      <ul>
+        <li><a href="index.html">Início 🏠</a></li>
+        <li><a href="tigres.html">Tigres 🐅</a></li>
+        <li><a href="onca-pintada.html">Onça-Pintada 🐆</a></li>
+        <li><a href="lobos.html">Lobos 🐺</a></li>
+        <li><a href="camaleao.html">Camaleão 🦎</a></li>
+        <li><a href="canguru-vermelho.html">Canguru Vermelho 🦘</a></li>
+        <li><a href="lince-canadense.html">Lince Canadense 🐈‍⬛</a></li>
+        <li><a href="lemure.html">Lêmure 🐒</a></li>
+        <li><a href="esquilo.html">Esquilo 🐿️</a></li>
+        <li><a href="leao.html">Leão 🦁</a></li>
+        <li><a href="cavalo-marinho.html">Cavalo-marinho 🐠</a></li>
+        <li><a href="pinguim-imperador.html">Pinguim-Imperador 🐧</a></li>
+        <li><a href="lagartixa-leopardo.html">Lagartixa-leopardo 🦎</a></li>
+        <li><a href="lagartixa-azul-eletrica.html">Lagartixa Azul Elétrica 🦎</a></li>
+        <li><a href="lagartixa-ana.html">Lagartixa Ana 🦎</a></li>
+        <li><a href="lagartixa-tocai.html">Lagartixa Tokay 🦎</a></li>
+        <li><a href="crocodilo-australiano.html">Crocodilo Australiano 🐊</a></li>
+        <li><a href="golfinho.html">Golfinho 🐬</a></li>
+        <li><a href="falcao-peregrino.html">Falcão-peregrino 🦅</a></li>
+        <li><a href="harpia.html">Harpia 🦅</a></li>
+        <li><a href="bem-te-vi.html">Bem-te-vi 🐦</a></li>
+        <li><a href="pombo.html">Pombo 🕊️</a></li>
+        <li><a href="arara-caninde.html">Arara-canindé 🦜</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <article>
+      <h2>Sobre o Bem-te-vi</h2>
+      <img src="images/bem-te-vi.jpg" alt="Bem-te-vi" class="animal-image">
+      <ul class="facts">
+        <li><strong>Habitat:</strong> áreas abertas, parques, jardins e margens de rios em boa parte da América do Sul.</li>
+        <li><strong>Alimentação:</strong> onívora; come insetos, frutas e ocasionalmente pequenos peixes.</li>
+        <li><strong>Tipo de nascimento:</strong> ovíparo.</li>
+        <li><strong>Tempo de gestação:</strong> incubação de 14 a 17 dias.</li>
+        <li><strong>Quantidade de filhotes:</strong> 3 a 5 ovos por ninhada.</li>
+        <li><strong>Desafio de vida:</strong> perda de áreas verdes e poluição.</li>
+        <li><strong>Curiosidades:</strong> reconhecido pelo canto “bem-te-vi”; é territorial e curioso.</li>
+        <li><strong>Peso e tamanho médio:</strong> 50–70 g; 20–25 cm de comprimento.</li>
+      </ul>
+    </article>
+  </section>
+  <footer>
+    <p>&copy; 2025 Mundo Animal</p>
+  </footer>
+</body>
+</html>
+
+
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/camaleao.html ###
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Camaleão - Mundo Animal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🦎 Camaleão</h1>
+        <nav>
+      <ul>
+        <li><a href="index.html">Início 🏠</a></li>
+        <li><a href="tigres.html">Tigres 🐅</a></li>
+        <li><a href="onca-pintada.html">Onça-Pintada 🐆</a></li>
+        <li><a href="lobos.html">Lobos 🐺</a></li>
+        <li><a href="camaleao.html">Camaleão 🦎</a></li>
+        <li><a href="canguru-vermelho.html">Canguru Vermelho 🦘</a></li>
+        <li><a href="lince-canadense.html">Lince Canadense 🐈‍⬛</a></li>
+        <li><a href="lemure.html">Lêmure 🐒</a></li>
+        <li><a href="esquilo.html">Esquilo 🐿️</a></li>
+        <li><a href="leao.html">Leão 🦁</a></li>
+        <li><a href="cavalo-marinho.html">Cavalo-marinho 🐠</a></li>
+        <li><a href="pinguim-imperador.html">Pinguim-Imperador 🐧</a></li>
+        <li><a href="lagartixa-leopardo.html">Lagartixa-leopardo 🦎</a></li>
+        <li><a href="lagartixa-azul-eletrica.html">Lagartixa Azul Elétrica 🦎</a></li>
+        <li><a href="lagartixa-ana.html">Lagartixa Ana 🦎</a></li>
+        <li><a href="lagartixa-tocai.html">Lagartixa Tokay 🦎</a></li>
+        <li><a href="crocodilo-australiano.html">Crocodilo Australiano 🐊</a></li>
+        <li><a href="golfinho.html">Golfinho 🐬</a></li>
+        <li><a href="falcao-peregrino.html">Falcão-peregrino 🦅</a></li>
+        <li><a href="harpia.html">Harpia 🦅</a></li>
+        <li><a href="bem-te-vi.html">Bem-te-vi 🐦</a></li>
+        <li><a href="pombo.html">Pombo 🕊️</a></li>
+        <li><a href="arara-caninde.html">Arara-canindé 🦜</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <article>
+      <h2>Sobre o Camaleão</h2>
+      <img src="images/camaleao.jpg" alt="Camaleão" class="animal-image">
+      <ul class="facts">
+        <li><strong>Habitat:</strong> florestas e savanas tropicais, vivendo principalmente em árvores.</li>
+        <li><strong>Alimentação:</strong> insetívora, capturando presas com língua longa e pegajosa.</li>
+        <li><strong>Tipo de nascimento:</strong> ovíparo.</li>
+        <li><strong>Tempo de gestação:</strong> ovos incubam de 4 a 12 meses conforme a espécie.</li>
+        <li><strong>Quantidade de filhotes:</strong> de 10 a 40 ovos por postura.</li>
+        <li><strong>Desafio de vida:</strong> perda de habitat e captura para o comércio ilegal.</li>
+        <li><strong>Curiosidades:</strong> olhos se movem de forma independente e a cor muda para comunicação e camuflagem.</li>
+        <li><strong>Peso e tamanho médio:</strong> 0,1–0,5 kg, 15–60 cm de comprimento.</li>
+      </ul>
+    </article>
+  </section>
+  <footer>
+    <p>&copy; 2025 Mundo Animal</p>
+  </footer>
+</body>
+</html>
+
+
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/canguru-vermelho.html ###
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Canguru Vermelho - Mundo Animal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🦘 Canguru Vermelho</h1>
+        <nav>
+      <ul>
+        <li><a href="index.html">Início 🏠</a></li>
+        <li><a href="tigres.html">Tigres 🐅</a></li>
+        <li><a href="onca-pintada.html">Onça-Pintada 🐆</a></li>
+        <li><a href="lobos.html">Lobos 🐺</a></li>
+        <li><a href="camaleao.html">Camaleão 🦎</a></li>
+        <li><a href="canguru-vermelho.html">Canguru Vermelho 🦘</a></li>
+        <li><a href="lince-canadense.html">Lince Canadense 🐈‍⬛</a></li>
+        <li><a href="lemure.html">Lêmure 🐒</a></li>
+        <li><a href="esquilo.html">Esquilo 🐿️</a></li>
+        <li><a href="leao.html">Leão 🦁</a></li>
+        <li><a href="cavalo-marinho.html">Cavalo-marinho 🐠</a></li>
+        <li><a href="pinguim-imperador.html">Pinguim-Imperador 🐧</a></li>
+        <li><a href="lagartixa-leopardo.html">Lagartixa-leopardo 🦎</a></li>
+        <li><a href="lagartixa-azul-eletrica.html">Lagartixa Azul Elétrica 🦎</a></li>
+        <li><a href="lagartixa-ana.html">Lagartixa Ana 🦎</a></li>
+        <li><a href="lagartixa-tocai.html">Lagartixa Tokay 🦎</a></li>
+        <li><a href="crocodilo-australiano.html">Crocodilo Australiano 🐊</a></li>
+        <li><a href="golfinho.html">Golfinho 🐬</a></li>
+        <li><a href="falcao-peregrino.html">Falcão-peregrino 🦅</a></li>
+        <li><a href="harpia.html">Harpia 🦅</a></li>
+        <li><a href="bem-te-vi.html">Bem-te-vi 🐦</a></li>
+        <li><a href="pombo.html">Pombo 🕊️</a></li>
+        <li><a href="arara-caninde.html">Arara-canindé 🦜</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <article>
+      <h2>Sobre o Canguru Vermelho</h2>
+      <img src="images/canguru-vermelho.jpg" alt="Canguru Vermelho" class="animal-image">
+      <ul class="facts">
+        <li><strong>Habitat:</strong> planícies áridas e savanas da Austrália.</li>
+        <li><strong>Alimentação:</strong> herbívora, baseada em gramíneas e brotos.</li>
+        <li><strong>Tipo de nascimento:</strong> vivíparo marsupial, filhote cresce no marsúpio.</li>
+        <li><strong>Tempo de gestação:</strong> cerca de 33 dias, seguido de 6–8 meses no bolso.</li>
+        <li><strong>Quantidade de filhotes:</strong> normalmente 1 por gestação.</li>
+        <li><strong>Desafio de vida:</strong> secas prolongadas e atropelamentos em estradas.</li>
+        <li><strong>Curiosidades:</strong> saltos podem ultrapassar 10 m e atingir 60 km/h.</li>
+        <li><strong>Peso e tamanho médio:</strong> 20–90 kg, altura de 1,3 a 1,8 m.</li>
+      </ul>
+    </article>
+  </section>
+  <footer>
+    <p>&copy; 2025 Mundo Animal</p>
+  </footer>
+</body>
+</html>
+
+
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/cavalo-marinho.html ###
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cavalo-marinho - Mundo Animal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🐠 Cavalo-marinho</h1>
+        <nav>
+      <ul>
+        <li><a href="index.html">Início 🏠</a></li>
+        <li><a href="tigres.html">Tigres 🐅</a></li>
+        <li><a href="onca-pintada.html">Onça-Pintada 🐆</a></li>
+        <li><a href="lobos.html">Lobos 🐺</a></li>
+        <li><a href="camaleao.html">Camaleão 🦎</a></li>
+        <li><a href="canguru-vermelho.html">Canguru Vermelho 🦘</a></li>
+        <li><a href="lince-canadense.html">Lince Canadense 🐈‍⬛</a></li>
+        <li><a href="lemure.html">Lêmure 🐒</a></li>
+        <li><a href="esquilo.html">Esquilo 🐿️</a></li>
+        <li><a href="leao.html">Leão 🦁</a></li>
+        <li><a href="cavalo-marinho.html">Cavalo-marinho 🐠</a></li>
+        <li><a href="pinguim-imperador.html">Pinguim-Imperador 🐧</a></li>
+        <li><a href="lagartixa-leopardo.html">Lagartixa-leopardo 🦎</a></li>
+        <li><a href="lagartixa-azul-eletrica.html">Lagartixa Azul Elétrica 🦎</a></li>
+        <li><a href="lagartixa-ana.html">Lagartixa Ana 🦎</a></li>
+        <li><a href="lagartixa-tocai.html">Lagartixa Tokay 🦎</a></li>
+        <li><a href="crocodilo-australiano.html">Crocodilo Australiano 🐊</a></li>
+        <li><a href="golfinho.html">Golfinho 🐬</a></li>
+        <li><a href="falcao-peregrino.html">Falcão-peregrino 🦅</a></li>
+        <li><a href="harpia.html">Harpia 🦅</a></li>
+        <li><a href="bem-te-vi.html">Bem-te-vi 🐦</a></li>
+        <li><a href="pombo.html">Pombo 🕊️</a></li>
+        <li><a href="arara-caninde.html">Arara-canindé 🦜</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <article>
+      <h2>Sobre o Cavalo-marinho</h2>
+      <img src="images/cavalo-marinho.jpg" alt="Cavalo-marinho" class="animal-image">
+      <ul class="facts">
+        <li><strong>Habitat:</strong> recifes rasos e pradarias de algas em mares tropicais e subtropicais.</li>
+        <li><strong>Alimentação:</strong> zooplâncton e pequenos crustáceos sugados pelo focinho.</li>
+        <li><strong>Tipo de nascimento:</strong> ovovivíparo; o macho incuba os ovos no bolso ventral.</li>
+        <li><strong>Tempo de gestação:</strong> 14 a 45 dias, conforme a espécie.</li>
+        <li><strong>Quantidade de filhotes:</strong> 50 a 1000 filhotes microscópicos liberados pelo macho.</li>
+        <li><strong>Desafio de vida:</strong> coleta ornamental e perda de habitat costeiro.</li>
+        <li><strong>Curiosidades:</strong> formam casais monogâmicos sazonais e nadam em posição vertical.</li>
+        <li><strong>Peso e tamanho médio:</strong> menos de 0,1 kg; 2–35 cm de comprimento.</li>
+      </ul>
+    </article>
+  </section>
+  <footer>
+    <p>&copy; 2025 Mundo Animal</p>
+  </footer>
+</body>
+</html>
+
+
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/crocodilo-australiano.html ###
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Crocodilo Australiano - Mundo Animal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🐊 Crocodilo Australiano</h1>
+        <nav>
+      <ul>
+        <li><a href="index.html">Início 🏠</a></li>
+        <li><a href="tigres.html">Tigres 🐅</a></li>
+        <li><a href="onca-pintada.html">Onça-Pintada 🐆</a></li>
+        <li><a href="lobos.html">Lobos 🐺</a></li>
+        <li><a href="camaleao.html">Camaleão 🦎</a></li>
+        <li><a href="canguru-vermelho.html">Canguru Vermelho 🦘</a></li>
+        <li><a href="lince-canadense.html">Lince Canadense 🐈‍⬛</a></li>
+        <li><a href="lemure.html">Lêmure 🐒</a></li>
+        <li><a href="esquilo.html">Esquilo 🐿️</a></li>
+        <li><a href="leao.html">Leão 🦁</a></li>
+        <li><a href="cavalo-marinho.html">Cavalo-marinho 🐠</a></li>
+        <li><a href="pinguim-imperador.html">Pinguim-Imperador 🐧</a></li>
+        <li><a href="lagartixa-leopardo.html">Lagartixa-leopardo 🦎</a></li>
+        <li><a href="lagartixa-azul-eletrica.html">Lagartixa Azul Elétrica 🦎</a></li>
+        <li><a href="lagartixa-ana.html">Lagartixa Ana 🦎</a></li>
+        <li><a href="lagartixa-tocai.html">Lagartixa Tokay 🦎</a></li>
+        <li><a href="crocodilo-australiano.html">Crocodilo Australiano 🐊</a></li>
+        <li><a href="golfinho.html">Golfinho 🐬</a></li>
+        <li><a href="falcao-peregrino.html">Falcão-peregrino 🦅</a></li>
+        <li><a href="harpia.html">Harpia 🦅</a></li>
+        <li><a href="bem-te-vi.html">Bem-te-vi 🐦</a></li>
+        <li><a href="pombo.html">Pombo 🕊️</a></li>
+        <li><a href="arara-caninde.html">Arara-canindé 🦜</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <article>
+      <h2>Sobre o Crocodilo Australiano</h2>
+      <img src="images/crocodilo-australiano.jpg" alt="Crocodilo australiano" class="animal-image">
+      <ul class="facts">
+        <li><strong>Habitat:</strong> estuários, rios e manguezais do norte da Austrália e sudeste da Ásia.</li>
+        <li><strong>Alimentação:</strong> carnívora, capturando peixes, aves e mamíferos que se aproximam da água.</li>
+        <li><strong>Tipo de nascimento:</strong> ovíparo.</li>
+        <li><strong>Tempo de gestação:</strong> ovos incubam por 80 a 90 dias em ninhos de vegetação.</li>
+        <li><strong>Quantidade de filhotes:</strong> 40 a 60 ovos, com poucos sobrevivendo à fase juvenil.</li>
+        <li><strong>Desafio de vida:</strong> conflitos com humanos e perda de habitat de manguezal.</li>
+        <li><strong>Curiosidades:</strong> possui uma das mordidas mais fortes do reino animal.</li>
+        <li><strong>Peso e tamanho médio:</strong> 400–1000 kg; 4–6 m de comprimento.</li>
+      </ul>
+    </article>
+  </section>
+  <footer>
+    <p>&copy; 2025 Mundo Animal</p>
+  </footer>
+</body>
+</html>
+
+
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/esquilo.html ###
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Esquilo - Mundo Animal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🐿️ Esquilo</h1>
+        <nav>
+      <ul>
+        <li><a href="index.html">Início 🏠</a></li>
+        <li><a href="tigres.html">Tigres 🐅</a></li>
+        <li><a href="onca-pintada.html">Onça-Pintada 🐆</a></li>
+        <li><a href="lobos.html">Lobos 🐺</a></li>
+        <li><a href="camaleao.html">Camaleão 🦎</a></li>
+        <li><a href="canguru-vermelho.html">Canguru Vermelho 🦘</a></li>
+        <li><a href="lince-canadense.html">Lince Canadense 🐈‍⬛</a></li>
+        <li><a href="lemure.html">Lêmure 🐒</a></li>
+        <li><a href="esquilo.html">Esquilo 🐿️</a></li>
+        <li><a href="leao.html">Leão 🦁</a></li>
+        <li><a href="cavalo-marinho.html">Cavalo-marinho 🐠</a></li>
+        <li><a href="pinguim-imperador.html">Pinguim-Imperador 🐧</a></li>
+        <li><a href="lagartixa-leopardo.html">Lagartixa-leopardo 🦎</a></li>
+        <li><a href="lagartixa-azul-eletrica.html">Lagartixa Azul Elétrica 🦎</a></li>
+        <li><a href="lagartixa-ana.html">Lagartixa Ana 🦎</a></li>
+        <li><a href="lagartixa-tocai.html">Lagartixa Tokay 🦎</a></li>
+        <li><a href="crocodilo-australiano.html">Crocodilo Australiano 🐊</a></li>
+        <li><a href="golfinho.html">Golfinho 🐬</a></li>
+        <li><a href="falcao-peregrino.html">Falcão-peregrino 🦅</a></li>
+        <li><a href="harpia.html">Harpia 🦅</a></li>
+        <li><a href="bem-te-vi.html">Bem-te-vi 🐦</a></li>
+        <li><a href="pombo.html">Pombo 🕊️</a></li>
+        <li><a href="arara-caninde.html">Arara-canindé 🦜</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <article>
+      <h2>Sobre o Esquilo</h2>
+      <img src="images/esquilo.webp" alt="Esquilo" class="animal-image">
+      <ul class="facts">
+        <li><strong>Habitat:</strong> florestas, parques e áreas urbanas arborizadas.</li>
+        <li><strong>Alimentação:</strong> sementes, nozes, frutos e ocasionalmente insetos.</li>
+        <li><strong>Tipo de nascimento:</strong> vivíparo.</li>
+        <li><strong>Tempo de gestação:</strong> 38 a 46 dias.</li>
+        <li><strong>Quantidade de filhotes:</strong> 2 a 5 filhotes por ninhada.</li>
+        <li><strong>Desafio de vida:</strong> predadores naturais e riscos em áreas urbanas (tráfego).</li>
+        <li><strong>Curiosidades:</strong> enterram sementes e ajudam na regeneração das florestas.</li>
+        <li><strong>Peso e tamanho médio:</strong> 0,2–0,7 kg, 20–30 cm de comprimento (sem a cauda).</li>
+      </ul>
+    </article>
+  </section>
+  <footer>
+    <p>&copy; 2025 Mundo Animal</p>
+  </footer>
+</body>
+</html>
+
+
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/falcao-peregrino.html ###
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Falcão-peregrino - Mundo Animal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🦅 Falcão-peregrino</h1>
+        <nav>
+      <ul>
+        <li><a href="index.html">Início 🏠</a></li>
+        <li><a href="tigres.html">Tigres 🐅</a></li>
+        <li><a href="onca-pintada.html">Onça-Pintada 🐆</a></li>
+        <li><a href="lobos.html">Lobos 🐺</a></li>
+        <li><a href="camaleao.html">Camaleão 🦎</a></li>
+        <li><a href="canguru-vermelho.html">Canguru Vermelho 🦘</a></li>
+        <li><a href="lince-canadense.html">Lince Canadense 🐈‍⬛</a></li>
+        <li><a href="lemure.html">Lêmure 🐒</a></li>
+        <li><a href="esquilo.html">Esquilo 🐿️</a></li>
+        <li><a href="leao.html">Leão 🦁</a></li>
+        <li><a href="cavalo-marinho.html">Cavalo-marinho 🐠</a></li>
+        <li><a href="pinguim-imperador.html">Pinguim-Imperador 🐧</a></li>
+        <li><a href="lagartixa-leopardo.html">Lagartixa-leopardo 🦎</a></li>
+        <li><a href="lagartixa-azul-eletrica.html">Lagartixa Azul Elétrica 🦎</a></li>
+        <li><a href="lagartixa-ana.html">Lagartixa Ana 🦎</a></li>
+        <li><a href="lagartixa-tocai.html">Lagartixa Tokay 🦎</a></li>
+        <li><a href="crocodilo-australiano.html">Crocodilo Australiano 🐊</a></li>
+        <li><a href="golfinho.html">Golfinho 🐬</a></li>
+        <li><a href="falcao-peregrino.html">Falcão-peregrino 🦅</a></li>
+        <li><a href="harpia.html">Harpia 🦅</a></li>
+        <li><a href="bem-te-vi.html">Bem-te-vi 🐦</a></li>
+        <li><a href="pombo.html">Pombo 🕊️</a></li>
+        <li><a href="arara-caninde.html">Arara-canindé 🦜</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <article>
+      <h2>Sobre o Falcão-peregrino</h2>
+      <img src="images/falcao-peregrino.jpg" alt="Falcão-peregrino" class="animal-image">
+      <ul class="facts">
+        <li><strong>Habitat:</strong> falésias, montanhas e cidades, onde nidifica em arranha-céus.</li>
+        <li><strong>Alimentação:</strong> carnívora, capturando aves em voo.</li>
+        <li><strong>Tipo de nascimento:</strong> ovíparo.</li>
+        <li><strong>Tempo de gestação:</strong> incubação de 29 a 35 dias.</li>
+        <li><strong>Quantidade de filhotes:</strong> 2 a 4 ovos por ninhada.</li>
+        <li><strong>Desafio de vida:</strong> sensível a pesticidas e colisões em ambientes urbanos.</li>
+        <li><strong>Curiosidades:</strong> é o animal mais rápido do mundo, mergulhando acima de 320 km/h.</li>
+        <li><strong>Peso e tamanho médio:</strong> 0,5–1,5 kg; envergadura de 74–120 cm.</li>
+      </ul>
+    </article>
+  </section>
+  <footer>
+    <p>&copy; 2025 Mundo Animal</p>
+  </footer>
+</body>
+</html>
+
+
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/golfinho.html ###
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Golfinho - Mundo Animal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🐬 Golfinho</h1>
+        <nav>
+      <ul>
+        <li><a href="index.html">Início 🏠</a></li>
+        <li><a href="tigres.html">Tigres 🐅</a></li>
+        <li><a href="onca-pintada.html">Onça-Pintada 🐆</a></li>
+        <li><a href="lobos.html">Lobos 🐺</a></li>
+        <li><a href="camaleao.html">Camaleão 🦎</a></li>
+        <li><a href="canguru-vermelho.html">Canguru Vermelho 🦘</a></li>
+        <li><a href="lince-canadense.html">Lince Canadense 🐈‍⬛</a></li>
+        <li><a href="lemure.html">Lêmure 🐒</a></li>
+        <li><a href="esquilo.html">Esquilo 🐿️</a></li>
+        <li><a href="leao.html">Leão 🦁</a></li>
+        <li><a href="cavalo-marinho.html">Cavalo-marinho 🐠</a></li>
+        <li><a href="pinguim-imperador.html">Pinguim-Imperador 🐧</a></li>
+        <li><a href="lagartixa-leopardo.html">Lagartixa-leopardo 🦎</a></li>
+        <li><a href="lagartixa-azul-eletrica.html">Lagartixa Azul Elétrica 🦎</a></li>
+        <li><a href="lagartixa-ana.html">Lagartixa Ana 🦎</a></li>
+        <li><a href="lagartixa-tocai.html">Lagartixa Tokay 🦎</a></li>
+        <li><a href="crocodilo-australiano.html">Crocodilo Australiano 🐊</a></li>
+        <li><a href="golfinho.html">Golfinho 🐬</a></li>
+        <li><a href="falcao-peregrino.html">Falcão-peregrino 🦅</a></li>
+        <li><a href="harpia.html">Harpia 🦅</a></li>
+        <li><a href="bem-te-vi.html">Bem-te-vi 🐦</a></li>
+        <li><a href="pombo.html">Pombo 🕊️</a></li>
+        <li><a href="arara-caninde.html">Arara-canindé 🦜</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <article>
+      <h2>Sobre o Golfinho</h2>
+      <img src="images/golfinho.jpg" alt="Golfinho" class="animal-image">
+      <ul class="facts">
+        <li><strong>Habitat:</strong> oceanos tropicais e temperados, especialmente zonas costeiras.</li>
+        <li><strong>Alimentação:</strong> peixes e lulas, caçando em grupo.</li>
+        <li><strong>Tipo de nascimento:</strong> vivíparo.</li>
+        <li><strong>Tempo de gestação:</strong> cerca de 12 meses.</li>
+        <li><strong>Quantidade de filhotes:</strong> 1 filhote por gestação.</li>
+        <li><strong>Desafio de vida:</strong> poluição, pesca acidental em redes e ruído submarino.</li>
+        <li><strong>Curiosidades:</strong> usam ecolocalização para navegar e são altamente sociais.</li>
+        <li><strong>Peso e tamanho médio:</strong> 150–300 kg; 2–4 m de comprimento.</li>
+      </ul>
+    </article>
+  </section>
+  <footer>
+    <p>&copy; 2025 Mundo Animal</p>
+  </footer>
+</body>
+</html>
+
+
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/harpia.html ###
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Harpia - Mundo Animal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🦅 Harpia</h1>
+        <nav>
+      <ul>
+        <li><a href="index.html">Início 🏠</a></li>
+        <li><a href="tigres.html">Tigres 🐅</a></li>
+        <li><a href="onca-pintada.html">Onça-Pintada 🐆</a></li>
+        <li><a href="lobos.html">Lobos 🐺</a></li>
+        <li><a href="camaleao.html">Camaleão 🦎</a></li>
+        <li><a href="canguru-vermelho.html">Canguru Vermelho 🦘</a></li>
+        <li><a href="lince-canadense.html">Lince Canadense 🐈‍⬛</a></li>
+        <li><a href="lemure.html">Lêmure 🐒</a></li>
+        <li><a href="esquilo.html">Esquilo 🐿️</a></li>
+        <li><a href="leao.html">Leão 🦁</a></li>
+        <li><a href="cavalo-marinho.html">Cavalo-marinho 🐠</a></li>
+        <li><a href="pinguim-imperador.html">Pinguim-Imperador 🐧</a></li>
+        <li><a href="lagartixa-leopardo.html">Lagartixa-leopardo 🦎</a></li>
+        <li><a href="lagartixa-azul-eletrica.html">Lagartixa Azul Elétrica 🦎</a></li>
+        <li><a href="lagartixa-ana.html">Lagartixa Ana 🦎</a></li>
+        <li><a href="lagartixa-tocai.html">Lagartixa Tokay 🦎</a></li>
+        <li><a href="crocodilo-australiano.html">Crocodilo Australiano 🐊</a></li>
+        <li><a href="golfinho.html">Golfinho 🐬</a></li>
+        <li><a href="falcao-peregrino.html">Falcão-peregrino 🦅</a></li>
+        <li><a href="harpia.html">Harpia 🦅</a></li>
+        <li><a href="bem-te-vi.html">Bem-te-vi 🐦</a></li>
+        <li><a href="pombo.html">Pombo 🕊️</a></li>
+        <li><a href="arara-caninde.html">Arara-canindé 🦜</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <article>
+      <h2>Sobre a Harpia</h2>
+      <img src="images/harpia.jpg" alt="Harpia" class="animal-image">
+      <ul class="facts">
+        <li><strong>Habitat:</strong> florestas tropicais densas, especialmente na Amazônia.</li>
+        <li><strong>Alimentação:</strong> carnívora, predando macacos, preguiças e aves.</li>
+        <li><strong>Tipo de nascimento:</strong> ovíparo.</li>
+        <li><strong>Tempo de gestação:</strong> incubação de cerca de 56 dias.</li>
+        <li><strong>Quantidade de filhotes:</strong> 1 a 2 ovos, com apenas um jovem criado por vez.</li>
+        <li><strong>Desafio de vida:</strong> desmatamento e diminuição de presas.</li>
+        <li><strong>Curiosidades:</strong> possui garras do tamanho de um urso-pardo e é uma das maiores aves de rapina.</li>
+        <li><strong>Peso e tamanho médio:</strong> 6–9 kg; envergadura de 1,8 a 2,3 m.</li>
+      </ul>
+    </article>
+  </section>
+  <footer>
+    <p>&copy; 2025 Mundo Animal</p>
+  </footer>
+</body>
+</html>
+
+
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/index.html ###
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mundo Animal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🐾 Bem-vindo ao Mundo Animal 🐾</h1>
+    <p>Explore tigres, onças-pintadas, lobos, camaleões, cangurus, linces, lêmures, esquilos, araras e muitos outros habitantes incríveis do planeta. 🌟</p>
+  </header>
+      <nav>
+      <ul>
+        <li><a href="index.html">Início 🏠</a></li>
+        <li><a href="tigres.html">Tigres 🐅</a></li>
+        <li><a href="onca-pintada.html">Onça-Pintada 🐆</a></li>
+        <li><a href="lobos.html">Lobos 🐺</a></li>
+        <li><a href="camaleao.html">Camaleão 🦎</a></li>
+        <li><a href="canguru-vermelho.html">Canguru Vermelho 🦘</a></li>
+        <li><a href="lince-canadense.html">Lince Canadense 🐈‍⬛</a></li>
+        <li><a href="lemure.html">Lêmure 🐒</a></li>
+        <li><a href="esquilo.html">Esquilo 🐿️</a></li>
+        <li><a href="leao.html">Leão 🦁</a></li>
+        <li><a href="cavalo-marinho.html">Cavalo-marinho 🐠</a></li>
+        <li><a href="pinguim-imperador.html">Pinguim-Imperador 🐧</a></li>
+        <li><a href="lagartixa-leopardo.html">Lagartixa-leopardo 🦎</a></li>
+        <li><a href="lagartixa-azul-eletrica.html">Lagartixa Azul Elétrica 🦎</a></li>
+        <li><a href="lagartixa-ana.html">Lagartixa Ana 🦎</a></li>
+        <li><a href="lagartixa-tocai.html">Lagartixa Tokay 🦎</a></li>
+        <li><a href="crocodilo-australiano.html">Crocodilo Australiano 🐊</a></li>
+        <li><a href="golfinho.html">Golfinho 🐬</a></li>
+        <li><a href="falcao-peregrino.html">Falcão-peregrino 🦅</a></li>
+        <li><a href="harpia.html">Harpia 🦅</a></li>
+        <li><a href="bem-te-vi.html">Bem-te-vi 🐦</a></li>
+        <li><a href="pombo.html">Pombo 🕊️</a></li>
+        <li><a href="arara-caninde.html">Arara-canindé 🦜</a></li>
+      </ul>
+    </nav>
+  <section>
+    <h2>Conheça nossos amigos!</h2>
+    <div class="grid">
+      <div class="grid-item"><a href="tigres.html"><img src="images/tigre.jpg" alt="Tigre"><p>🐅 Tigre</p></a></div>
+      <div class="grid-item"><a href="onca-pintada.html"><img src="images/onca-pintada.jpg" alt="Onça-Pintada"><p>🐆 Onça-Pintada</p></a></div>
+      <div class="grid-item"><a href="lobos.html"><img src="images/lobo.jpg" alt="Lobo"><p>🐺 Lobo</p></a></div>
+      <div class="grid-item"><a href="camaleao.html"><img src="images/camaleao.jpg" alt="Camaleão"><p>🦎 Camaleão</p></a></div>
+      <div class="grid-item"><a href="canguru-vermelho.html"><img src="images/canguru-vermelho.jpg" alt="Canguru Vermelho"><p>🦘 Canguru Vermelho</p></a></div>
+      <div class="grid-item"><a href="lince-canadense.html"><img src="images/lince-canadense.jpg" alt="Lince Canadense"><p>🐈‍⬛ Lince Canadense</p></a></div>
+      <div class="grid-item"><a href="lemure.html"><img src="images/lemure.jpg" alt="Lêmure"><p>🐒 Lêmure</p></a></div>
+      <div class="grid-item"><a href="esquilo.html"><img src="images/esquilo.webp" alt="Esquilo"><p>🐿️ Esquilo</p></a></div>
+      <div class="grid-item"><a href="leao.html"><img src="images/leao.jpg" alt="Leão"><p>🦁 Leão</p></a></div>
+      <div class="grid-item"><a href="cavalo-marinho.html"><img src="images/cavalo-marinho.jpg" alt="Cavalo-marinho"><p>🐠 Cavalo-marinho</p></a></div>
+      <div class="grid-item"><a href="pinguim-imperador.html"><img src="images/pinguim-imperador.jpg" alt="Pinguim-imperador"><p>🐧 Pinguim-imperador</p></a></div>
+      <div class="grid-item"><a href="lagartixa-leopardo.html"><img src="images/lagartixa-leopardo.avif" alt="Lagartixa-leopardo"><p>🦎 Lagartixa-leopardo</p></a></div>
+      <div class="grid-item"><a href="lagartixa-azul-eletrica.html"><img src="images/lagartixa-azul-eletrica.jpg" alt="Lagartixa azul elétrica"><p>🦎 Lagartixa Azul Elétrica</p></a></div>
+      <div class="grid-item"><a href="lagartixa-ana.html"><img src="images/lagartixa-ana.jpg" alt="Lagartixa Ana"><p>🦎 Lagartixa Ana</p></a></div>
+      <div class="grid-item"><a href="lagartixa-tocai.html"><img src="images/lagartixa-tocai.jpg" alt="Lagartixa Tokay"><p>🦎 Lagartixa Tokay</p></a></div>
+      <div class="grid-item"><a href="crocodilo-australiano.html"><img src="images/crocodilo-australiano.jpg" alt="Crocodilo australiano"><p>🐊 Crocodilo Australiano</p></a></div>
+      <div class="grid-item"><a href="golfinho.html"><img src="images/golfinho.jpg" alt="Golfinho"><p>🐬 Golfinho</p></a></div>
+      <div class="grid-item"><a href="falcao-peregrino.html"><img src="images/falcao-peregrino.jpg" alt="Falcão-peregrino"><p>🦅 Falcão-peregrino</p></a></div>
+      <div class="grid-item"><a href="harpia.html"><img src="images/harpia.jpg" alt="Harpia"><p>🦅 Harpia</p></a></div>
+      <div class="grid-item"><a href="bem-te-vi.html"><img src="images/bem-te-vi.jpg" alt="Bem-te-vi"><p>🐦 Bem-te-vi</p></a></div>
+      <div class="grid-item"><a href="bem-te-vi.html"><img src="images/bem-te-vi.jpg" alt="Bem-te-vi"><p>🐦 Bem-te-vi</p></a></div>
+      <div class="grid-item"><a href="pombo.html"><img src="images/pombo.jpg" alt="Pombo"><p>🕊️ Pombo</p></a></div>
+      <div class="grid-item"><a href="arara-caninde.html"><img src="images/arara-caninde.jpg" alt="Arara-canindé"><p>🦜 Arara-canindé</p></a></div>
+    </div>
+    <p>Selecione um animal para saber mais sobre ele. ✨</p>
+  </section>
+  <footer>
+    <p>&copy; 2025 Mundo Animal. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
+
+
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/lagartixa-ana.html ###
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lagartixa Ana - Mundo Animal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🦎 Lagartixa Ana</h1>
+        <nav>
+      <ul>
+        <li><a href="index.html">Início 🏠</a></li>
+        <li><a href="tigres.html">Tigres 🐅</a></li>
+        <li><a href="onca-pintada.html">Onça-Pintada 🐆</a></li>
+        <li><a href="lobos.html">Lobos 🐺</a></li>
+        <li><a href="camaleao.html">Camaleão 🦎</a></li>
+        <li><a href="canguru-vermelho.html">Canguru Vermelho 🦘</a></li>
+        <li><a href="lince-canadense.html">Lince Canadense 🐈‍⬛</a></li>
+        <li><a href="lemure.html">Lêmure 🐒</a></li>
+        <li><a href="esquilo.html">Esquilo 🐿️</a></li>
+        <li><a href="leao.html">Leão 🦁</a></li>
+        <li><a href="cavalo-marinho.html">Cavalo-marinho 🐠</a></li>
+        <li><a href="pinguim-imperador.html">Pinguim-Imperador 🐧</a></li>
+        <li><a href="lagartixa-leopardo.html">Lagartixa-leopardo 🦎</a></li>
+        <li><a href="lagartixa-azul-eletrica.html">Lagartixa Azul Elétrica 🦎</a></li>
+        <li><a href="lagartixa-ana.html">Lagartixa Ana 🦎</a></li>
+        <li><a href="lagartixa-tocai.html">Lagartixa Tokay 🦎</a></li>
+        <li><a href="crocodilo-australiano.html">Crocodilo Australiano 🐊</a></li>
+        <li><a href="golfinho.html">Golfinho 🐬</a></li>
+        <li><a href="falcao-peregrino.html">Falcão-peregrino 🦅</a></li>
+        <li><a href="harpia.html">Harpia 🦅</a></li>
+        <li><a href="bem-te-vi.html">Bem-te-vi 🐦</a></li>
+        <li><a href="pombo.html">Pombo 🕊️</a></li>
+        <li><a href="arara-caninde.html">Arara-canindé 🦜</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <article>
+      <h2>Sobre a Lagartixa Ana</h2>
+      <img src="images/lagartixa-ana.jpg" alt="Lagartixa Ana" class="animal-image">
+      <ul class="facts">
+        <li><strong>Habitat:</strong> áreas arbóreas do sudeste dos EUA, jardins e manguezais.</li>
+        <li><strong>Alimentação:</strong> insetívora, capturando moscas, formigas e pequenos artrópodes.</li>
+        <li><strong>Tipo de nascimento:</strong> ovíparo.</li>
+        <li><strong>Tempo de gestação:</strong> ovos incubam cerca de 30 dias.</li>
+        <li><strong>Quantidade de filhotes:</strong> 1 ovo por postura, repetida várias vezes no ano.</li>
+        <li><strong>Desafio de vida:</strong> perda de habitat e competição com espécies invasoras.</li>
+        <li><strong>Curiosidades:</strong> muda de cor do verde ao marrom para camuflagem e comunicação.</li>
+        <li><strong>Peso e tamanho médio:</strong> 3–7 g; 12–20 cm de comprimento.</li>
+      </ul>
+    </article>
+  </section>
+  <footer>
+    <p>&copy; 2025 Mundo Animal</p>
+  </footer>
+</body>
+</html>
+
+
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/lagartixa-azul-eletrica.html ###
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lagartixa Azul Elétrica - Mundo Animal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🦎 Lagartixa Azul Elétrica</h1>
+        <nav>
+      <ul>
+        <li><a href="index.html">Início 🏠</a></li>
+        <li><a href="tigres.html">Tigres 🐅</a></li>
+        <li><a href="onca-pintada.html">Onça-Pintada 🐆</a></li>
+        <li><a href="lobos.html">Lobos 🐺</a></li>
+        <li><a href="camaleao.html">Camaleão 🦎</a></li>
+        <li><a href="canguru-vermelho.html">Canguru Vermelho 🦘</a></li>
+        <li><a href="lince-canadense.html">Lince Canadense 🐈‍⬛</a></li>
+        <li><a href="lemure.html">Lêmure 🐒</a></li>
+        <li><a href="esquilo.html">Esquilo 🐿️</a></li>
+        <li><a href="leao.html">Leão 🦁</a></li>
+        <li><a href="cavalo-marinho.html">Cavalo-marinho 🐠</a></li>
+        <li><a href="pinguim-imperador.html">Pinguim-Imperador 🐧</a></li>
+        <li><a href="lagartixa-leopardo.html">Lagartixa-leopardo 🦎</a></li>
+        <li><a href="lagartixa-azul-eletrica.html">Lagartixa Azul Elétrica 🦎</a></li>
+        <li><a href="lagartixa-ana.html">Lagartixa Ana 🦎</a></li>
+        <li><a href="lagartixa-tocai.html">Lagartixa Tokay 🦎</a></li>
+        <li><a href="crocodilo-australiano.html">Crocodilo Australiano 🐊</a></li>
+        <li><a href="golfinho.html">Golfinho 🐬</a></li>
+        <li><a href="falcao-peregrino.html">Falcão-peregrino 🦅</a></li>
+        <li><a href="harpia.html">Harpia 🦅</a></li>
+        <li><a href="bem-te-vi.html">Bem-te-vi 🐦</a></li>
+        <li><a href="pombo.html">Pombo 🕊️</a></li>
+        <li><a href="arara-caninde.html">Arara-canindé 🦜</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <article>
+      <h2>Sobre a Lagartixa Azul Elétrica</h2>
+      <img src="images/lagartixa-azul-eletrica.jpg" alt="Lagartixa azul elétrica" class="animal-image">
+      <ul class="facts">
+        <li><strong>Habitat:</strong> florestas de miombo na Tanzânia, vivendo em árvores cobertas de musgos.</li>
+        <li><strong>Alimentação:</strong> insetívora, consumindo pequenos artrópodes.</li>
+        <li><strong>Tipo de nascimento:</strong> ovíparo.</li>
+        <li><strong>Tempo de gestação:</strong> ovos incubam por cerca de 60 dias.</li>
+        <li><strong>Quantidade de filhotes:</strong> 1 a 2 ovos por postura.</li>
+        <li><strong>Desafio de vida:</strong> pressão do comércio ilegal e área de ocorrência muito restrita.</li>
+        <li><strong>Curiosidades:</strong> machos exibem cor azul brilhante; fêmeas são mais verdes.</li>
+        <li><strong>Peso e tamanho médio:</strong> 2–3 g; 6–9 cm de comprimento.</li>
+      </ul>
+    </article>
+  </section>
+  <footer>
+    <p>&copy; 2025 Mundo Animal</p>
+  </footer>
+</body>
+</html>
+
+
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/lagartixa-leopardo.html ###
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lagartixa-leopardo - Mundo Animal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🦎 Lagartixa-leopardo</h1>
+        <nav>
+      <ul>
+        <li><a href="index.html">Início 🏠</a></li>
+        <li><a href="tigres.html">Tigres 🐅</a></li>
+        <li><a href="onca-pintada.html">Onça-Pintada 🐆</a></li>
+        <li><a href="lobos.html">Lobos 🐺</a></li>
+        <li><a href="camaleao.html">Camaleão 🦎</a></li>
+        <li><a href="canguru-vermelho.html">Canguru Vermelho 🦘</a></li>
+        <li><a href="lince-canadense.html">Lince Canadense 🐈‍⬛</a></li>
+        <li><a href="lemure.html">Lêmure 🐒</a></li>
+        <li><a href="esquilo.html">Esquilo 🐿️</a></li>
+        <li><a href="leao.html">Leão 🦁</a></li>
+        <li><a href="cavalo-marinho.html">Cavalo-marinho 🐠</a></li>
+        <li><a href="pinguim-imperador.html">Pinguim-Imperador 🐧</a></li>
+        <li><a href="lagartixa-leopardo.html">Lagartixa-leopardo 🦎</a></li>
+        <li><a href="lagartixa-azul-eletrica.html">Lagartixa Azul Elétrica 🦎</a></li>
+        <li><a href="lagartixa-ana.html">Lagartixa Ana 🦎</a></li>
+        <li><a href="lagartixa-tocai.html">Lagartixa Tokay 🦎</a></li>
+        <li><a href="crocodilo-australiano.html">Crocodilo Australiano 🐊</a></li>
+        <li><a href="golfinho.html">Golfinho 🐬</a></li>
+        <li><a href="falcao-peregrino.html">Falcão-peregrino 🦅</a></li>
+        <li><a href="harpia.html">Harpia 🦅</a></li>
+        <li><a href="bem-te-vi.html">Bem-te-vi 🐦</a></li>
+        <li><a href="pombo.html">Pombo 🕊️</a></li>
+        <li><a href="arara-caninde.html">Arara-canindé 🦜</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <article>
+      <h2>Sobre a Lagartixa-leopardo</h2>
+      <img src="images/lagartixa-leopardo.avif" alt="Lagartixa-leopardo" class="animal-image">
+      <ul class="facts">
+        <li><strong>Habitat:</strong> regiões áridas e semiáridas do Oriente Médio e sul da Ásia.</li>
+        <li><strong>Alimentação:</strong> insetívora, consumindo grilos, baratas e pequenos invertebrados.</li>
+        <li><strong>Tipo de nascimento:</strong> ovíparo.</li>
+        <li><strong>Tempo de gestação:</strong> ovos incubam em cerca de 4 a 6 semanas.</li>
+        <li><strong>Quantidade de filhotes:</strong> 1 a 2 ovos por postura.</li>
+        <li><strong>Desafio de vida:</strong> perda de habitat e coleta para o comércio de pets.</li>
+        <li><strong>Curiosidades:</strong> pode soltar a cauda para escapar de predadores e regenerá-la depois.</li>
+        <li><strong>Peso e tamanho médio:</strong> 45–80 g; 20–28 cm de comprimento.</li>
+      </ul>
+    </article>
+  </section>
+  <footer>
+    <p>&copy; 2025 Mundo Animal</p>
+  </footer>
+</body>
+</html>
+
+
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/lagartixa-tocai.html ###
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lagartixa Tokay - Mundo Animal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🦎 Lagartixa Tokay</h1>
+        <nav>
+      <ul>
+        <li><a href="index.html">Início 🏠</a></li>
+        <li><a href="tigres.html">Tigres 🐅</a></li>
+        <li><a href="onca-pintada.html">Onça-Pintada 🐆</a></li>
+        <li><a href="lobos.html">Lobos 🐺</a></li>
+        <li><a href="camaleao.html">Camaleão 🦎</a></li>
+        <li><a href="canguru-vermelho.html">Canguru Vermelho 🦘</a></li>
+        <li><a href="lince-canadense.html">Lince Canadense 🐈‍⬛</a></li>
+        <li><a href="lemure.html">Lêmure 🐒</a></li>
+        <li><a href="esquilo.html">Esquilo 🐿️</a></li>
+        <li><a href="leao.html">Leão 🦁</a></li>
+        <li><a href="cavalo-marinho.html">Cavalo-marinho 🐠</a></li>
+        <li><a href="pinguim-imperador.html">Pinguim-Imperador 🐧</a></li>
+        <li><a href="lagartixa-leopardo.html">Lagartixa-leopardo 🦎</a></li>
+        <li><a href="lagartixa-azul-eletrica.html">Lagartixa Azul Elétrica 🦎</a></li>
+        <li><a href="lagartixa-ana.html">Lagartixa Ana 🦎</a></li>
+        <li><a href="lagartixa-tocai.html">Lagartixa Tokay 🦎</a></li>
+        <li><a href="crocodilo-australiano.html">Crocodilo Australiano 🐊</a></li>
+        <li><a href="golfinho.html">Golfinho 🐬</a></li>
+        <li><a href="falcao-peregrino.html">Falcão-peregrino 🦅</a></li>
+        <li><a href="harpia.html">Harpia 🦅</a></li>
+        <li><a href="bem-te-vi.html">Bem-te-vi 🐦</a></li>
+        <li><a href="pombo.html">Pombo 🕊️</a></li>
+        <li><a href="arara-caninde.html">Arara-canindé 🦜</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <article>
+      <h2>Sobre a Lagartixa Tokay</h2>
+      <img src="images/lagartixa-tocai.jpg" alt="Lagartixa Tokay" class="animal-image">
+      <ul class="facts">
+        <li><strong>Habitat:</strong> florestas tropicais e áreas urbanas do sudeste asiático.</li>
+        <li><strong>Alimentação:</strong> insetívora, consumindo insetos e pequenos vertebrados.</li>
+        <li><strong>Tipo de nascimento:</strong> ovíparo.</li>
+        <li><strong>Tempo de gestação:</strong> ovos incubam por 60 a 90 dias.</li>
+        <li><strong>Quantidade de filhotes:</strong> 2 ovos por postura.</li>
+        <li><strong>Desafio de vida:</strong> captura para comércio de pets e medicina tradicional.</li>
+        <li><strong>Curiosidades:</strong> vocaliza “to-kay” alto, que dá nome à espécie.</li>
+        <li><strong>Peso e tamanho médio:</strong> 150–400 g; 30–40 cm de comprimento.</li>
+      </ul>
+    </article>
+  </section>
+  <footer>
+    <p>&copy; 2025 Mundo Animal</p>
+  </footer>
+</body>
+</html>
+
+
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/leao.html ###
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Leão - Mundo Animal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🦁 Leão</h1>
+        <nav>
+      <ul>
+        <li><a href="index.html">Início 🏠</a></li>
+        <li><a href="tigres.html">Tigres 🐅</a></li>
+        <li><a href="onca-pintada.html">Onça-Pintada 🐆</a></li>
+        <li><a href="lobos.html">Lobos 🐺</a></li>
+        <li><a href="camaleao.html">Camaleão 🦎</a></li>
+        <li><a href="canguru-vermelho.html">Canguru Vermelho 🦘</a></li>
+        <li><a href="lince-canadense.html">Lince Canadense 🐈‍⬛</a></li>
+        <li><a href="lemure.html">Lêmure 🐒</a></li>
+        <li><a href="esquilo.html">Esquilo 🐿️</a></li>
+        <li><a href="leao.html">Leão 🦁</a></li>
+        <li><a href="cavalo-marinho.html">Cavalo-marinho 🐠</a></li>
+        <li><a href="pinguim-imperador.html">Pinguim-Imperador 🐧</a></li>
+        <li><a href="lagartixa-leopardo.html">Lagartixa-leopardo 🦎</a></li>
+        <li><a href="lagartixa-azul-eletrica.html">Lagartixa Azul Elétrica 🦎</a></li>
+        <li><a href="lagartixa-ana.html">Lagartixa Ana 🦎</a></li>
+        <li><a href="lagartixa-tocai.html">Lagartixa Tokay 🦎</a></li>
+        <li><a href="crocodilo-australiano.html">Crocodilo Australiano 🐊</a></li>
+        <li><a href="golfinho.html">Golfinho 🐬</a></li>
+        <li><a href="falcao-peregrino.html">Falcão-peregrino 🦅</a></li>
+        <li><a href="harpia.html">Harpia 🦅</a></li>
+        <li><a href="bem-te-vi.html">Bem-te-vi 🐦</a></li>
+        <li><a href="pombo.html">Pombo 🕊️</a></li>
+        <li><a href="arara-caninde.html">Arara-canindé 🦜</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <article>
+      <h2>Sobre o Leão</h2>
+      <img src="images/leao.jpg" alt="Leão" class="animal-image">
+      <ul class="facts">
+        <li><strong>Habitat:</strong> savanas e áreas abertas da África subsaariana.</li>
+        <li><strong>Alimentação:</strong> carnívora, caçando gnus, zebras e antílopes.</li>
+        <li><strong>Tipo de nascimento:</strong> vivíparo.</li>
+        <li><strong>Tempo de gestação:</strong> cerca de 110 dias.</li>
+        <li><strong>Quantidade de filhotes:</strong> 2 a 4 filhotes.</li>
+        <li><strong>Desafio de vida:</strong> conflitos com humanos e perda de presas naturais.</li>
+        <li><strong>Curiosidades:</strong> vivem em grupos sociais chamados prides, liderados por fêmeas aparentadas.</li>
+        <li><strong>Peso e tamanho médio:</strong> 120–190 kg, 1,4 a 2,5 m de comprimento sem a cauda.</li>
+      </ul>
+    </article>
+  </section>
+  <footer>
+    <p>&copy; 2025 Mundo Animal</p>
+  </footer>
+</body>
+</html>
+
+
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/lemure.html ###
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lêmure - Mundo Animal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🐒 Lêmure</h1>
+        <nav>
+      <ul>
+        <li><a href="index.html">Início 🏠</a></li>
+        <li><a href="tigres.html">Tigres 🐅</a></li>
+        <li><a href="onca-pintada.html">Onça-Pintada 🐆</a></li>
+        <li><a href="lobos.html">Lobos 🐺</a></li>
+        <li><a href="camaleao.html">Camaleão 🦎</a></li>
+        <li><a href="canguru-vermelho.html">Canguru Vermelho 🦘</a></li>
+        <li><a href="lince-canadense.html">Lince Canadense 🐈‍⬛</a></li>
+        <li><a href="lemure.html">Lêmure 🐒</a></li>
+        <li><a href="esquilo.html">Esquilo 🐿️</a></li>
+        <li><a href="leao.html">Leão 🦁</a></li>
+        <li><a href="cavalo-marinho.html">Cavalo-marinho 🐠</a></li>
+        <li><a href="pinguim-imperador.html">Pinguim-Imperador 🐧</a></li>
+        <li><a href="lagartixa-leopardo.html">Lagartixa-leopardo 🦎</a></li>
+        <li><a href="lagartixa-azul-eletrica.html">Lagartixa Azul Elétrica 🦎</a></li>
+        <li><a href="lagartixa-ana.html">Lagartixa Ana 🦎</a></li>
+        <li><a href="lagartixa-tocai.html">Lagartixa Tokay 🦎</a></li>
+        <li><a href="crocodilo-australiano.html">Crocodilo Australiano 🐊</a></li>
+        <li><a href="golfinho.html">Golfinho 🐬</a></li>
+        <li><a href="falcao-peregrino.html">Falcão-peregrino 🦅</a></li>
+        <li><a href="harpia.html">Harpia 🦅</a></li>
+        <li><a href="bem-te-vi.html">Bem-te-vi 🐦</a></li>
+        <li><a href="pombo.html">Pombo 🕊️</a></li>
+        <li><a href="arara-caninde.html">Arara-canindé 🦜</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <article>
+      <h2>Sobre o Lêmure</h2>
+      <img src="images/lemure.jpg" alt="Lêmure" class="animal-image">
+      <ul class="facts">
+        <li><strong>Habitat:</strong> florestas de Madagascar, incluindo áreas secas e úmidas.</li>
+        <li><strong>Alimentação:</strong> onívora, com frutas, folhas, néctar e pequenos insetos.</li>
+        <li><strong>Tipo de nascimento:</strong> vivíparo.</li>
+        <li><strong>Tempo de gestação:</strong> 120 a 140 dias.</li>
+        <li><strong>Quantidade de filhotes:</strong> 1 a 2 por gestação.</li>
+        <li><strong>Desafio de vida:</strong> desmatamento em Madagascar e caça ilegal.</li>
+        <li><strong>Curiosidades:</strong> usam cheiro para marcar território e vivem em grupos sociais.</li>
+        <li><strong>Peso e tamanho médio:</strong> 2–4 kg, 40–50 cm de corpo (mais a cauda).</li>
+      </ul>
+    </article>
+  </section>
+  <footer>
+    <p>&copy; 2025 Mundo Animal</p>
+  </footer>
+</body>
+</html>
+
+
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/lince-canadense.html ###
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lince Canadense - Mundo Animal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🐈‍⬛ Lince Canadense</h1>
+        <nav>
+      <ul>
+        <li><a href="index.html">Início 🏠</a></li>
+        <li><a href="tigres.html">Tigres 🐅</a></li>
+        <li><a href="onca-pintada.html">Onça-Pintada 🐆</a></li>
+        <li><a href="lobos.html">Lobos 🐺</a></li>
+        <li><a href="camaleao.html">Camaleão 🦎</a></li>
+        <li><a href="canguru-vermelho.html">Canguru Vermelho 🦘</a></li>
+        <li><a href="lince-canadense.html">Lince Canadense 🐈‍⬛</a></li>
+        <li><a href="lemure.html">Lêmure 🐒</a></li>
+        <li><a href="esquilo.html">Esquilo 🐿️</a></li>
+        <li><a href="leao.html">Leão 🦁</a></li>
+        <li><a href="cavalo-marinho.html">Cavalo-marinho 🐠</a></li>
+        <li><a href="pinguim-imperador.html">Pinguim-Imperador 🐧</a></li>
+        <li><a href="lagartixa-leopardo.html">Lagartixa-leopardo 🦎</a></li>
+        <li><a href="lagartixa-azul-eletrica.html">Lagartixa Azul Elétrica 🦎</a></li>
+        <li><a href="lagartixa-ana.html">Lagartixa Ana 🦎</a></li>
+        <li><a href="lagartixa-tocai.html">Lagartixa Tokay 🦎</a></li>
+        <li><a href="crocodilo-australiano.html">Crocodilo Australiano 🐊</a></li>
+        <li><a href="golfinho.html">Golfinho 🐬</a></li>
+        <li><a href="falcao-peregrino.html">Falcão-peregrino 🦅</a></li>
+        <li><a href="harpia.html">Harpia 🦅</a></li>
+        <li><a href="bem-te-vi.html">Bem-te-vi 🐦</a></li>
+        <li><a href="pombo.html">Pombo 🕊️</a></li>
+        <li><a href="arara-caninde.html">Arara-canindé 🦜</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <article>
+      <h2>Sobre o Lince Canadense</h2>
+      <img src="images/lince-canadense.jpg" alt="Lince Canadense" class="animal-image">
+      <ul class="facts">
+        <li><strong>Habitat:</strong> florestas boreais do Canadá e do Alasca, com neve profunda no inverno.</li>
+        <li><strong>Alimentação:</strong> carnívora, com forte dependência da lebre-americana.</li>
+        <li><strong>Tipo de nascimento:</strong> vivíparo.</li>
+        <li><strong>Tempo de gestação:</strong> 63 a 70 dias.</li>
+        <li><strong>Quantidade de filhotes:</strong> 1 a 4 filhotes.</li>
+        <li><strong>Desafio de vida:</strong> ciclos populacionais das lebres e fragmentação de habitat.</li>
+        <li><strong>Curiosidades:</strong> patas largas funcionam como “raquetes” na neve; audição muito aguçada.</li>
+        <li><strong>Peso e tamanho médio:</strong> 8–17 kg, 70–110 cm de comprimento.</li>
+      </ul>
+    </article>
+  </section>
+  <footer>
+    <p>&copy; 2025 Mundo Animal</p>
+  </footer>
+</body>
+</html>
+
+
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/lobos.html ###
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lobos - Mundo Animal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🐺 Lobos</h1>
+        <nav>
+      <ul>
+        <li><a href="index.html">Início 🏠</a></li>
+        <li><a href="tigres.html">Tigres 🐅</a></li>
+        <li><a href="onca-pintada.html">Onça-Pintada 🐆</a></li>
+        <li><a href="lobos.html">Lobos 🐺</a></li>
+        <li><a href="camaleao.html">Camaleão 🦎</a></li>
+        <li><a href="canguru-vermelho.html">Canguru Vermelho 🦘</a></li>
+        <li><a href="lince-canadense.html">Lince Canadense 🐈‍⬛</a></li>
+        <li><a href="lemure.html">Lêmure 🐒</a></li>
+        <li><a href="esquilo.html">Esquilo 🐿️</a></li>
+        <li><a href="leao.html">Leão 🦁</a></li>
+        <li><a href="cavalo-marinho.html">Cavalo-marinho 🐠</a></li>
+        <li><a href="pinguim-imperador.html">Pinguim-Imperador 🐧</a></li>
+        <li><a href="lagartixa-leopardo.html">Lagartixa-leopardo 🦎</a></li>
+        <li><a href="lagartixa-azul-eletrica.html">Lagartixa Azul Elétrica 🦎</a></li>
+        <li><a href="lagartixa-ana.html">Lagartixa Ana 🦎</a></li>
+        <li><a href="lagartixa-tocai.html">Lagartixa Tokay 🦎</a></li>
+        <li><a href="crocodilo-australiano.html">Crocodilo Australiano 🐊</a></li>
+        <li><a href="golfinho.html">Golfinho 🐬</a></li>
+        <li><a href="falcao-peregrino.html">Falcão-peregrino 🦅</a></li>
+        <li><a href="harpia.html">Harpia 🦅</a></li>
+        <li><a href="bem-te-vi.html">Bem-te-vi 🐦</a></li>
+        <li><a href="pombo.html">Pombo 🕊️</a></li>
+        <li><a href="arara-caninde.html">Arara-canindé 🦜</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <article>
+      <h2>A Corajosa Matilha de Lobos</h2>
+      <img src="images/lobo.jpg" alt="Lobo" class="animal-image">
+      <ul class="facts">
+        <li><strong>Habitat:</strong> florestas, tundras e montanhas do hemisfério norte.</li>
+        <li><strong>Alimentação:</strong> carnívora, caçando cervos, alces e presas menores em grupo.</li>
+        <li><strong>Tipo de nascimento:</strong> vivíparo.</li>
+        <li><strong>Tempo de gestação:</strong> cerca de 63 dias.</li>
+        <li><strong>Quantidade de filhotes:</strong> 4 a 6 filhotes por ninhada, em média.</li>
+        <li><strong>Desafio de vida:</strong> perseguição humana e perda de habitat.</li>
+        <li><strong>Curiosidades:</strong> usam uivos para coordenar a matilha e marcar território.</li>
+        <li><strong>Peso e tamanho médio:</strong> 30–80 kg, comprimento de 1,2 a 2 m incluindo a cauda.</li>
+      </ul>
+    </article>
+  </section>
+  <footer>
+    <p>&copy; 2025 Mundo Animal</p>
+  </footer>
+</body>
+</html>
+
+
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/onca-pintada.html ###
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Onça-Pintada - Mundo Animal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🐆 Onça-Pintada</h1>
+        <nav>
+      <ul>
+        <li><a href="index.html">Início 🏠</a></li>
+        <li><a href="tigres.html">Tigres 🐅</a></li>
+        <li><a href="onca-pintada.html">Onça-Pintada 🐆</a></li>
+        <li><a href="lobos.html">Lobos 🐺</a></li>
+        <li><a href="camaleao.html">Camaleão 🦎</a></li>
+        <li><a href="canguru-vermelho.html">Canguru Vermelho 🦘</a></li>
+        <li><a href="lince-canadense.html">Lince Canadense 🐈‍⬛</a></li>
+        <li><a href="lemure.html">Lêmure 🐒</a></li>
+        <li><a href="esquilo.html">Esquilo 🐿️</a></li>
+        <li><a href="leao.html">Leão 🦁</a></li>
+        <li><a href="cavalo-marinho.html">Cavalo-marinho 🐠</a></li>
+        <li><a href="pinguim-imperador.html">Pinguim-Imperador 🐧</a></li>
+        <li><a href="lagartixa-leopardo.html">Lagartixa-leopardo 🦎</a></li>
+        <li><a href="lagartixa-azul-eletrica.html">Lagartixa Azul Elétrica 🦎</a></li>
+        <li><a href="lagartixa-ana.html">Lagartixa Ana 🦎</a></li>
+        <li><a href="lagartixa-tocai.html">Lagartixa Tokay 🦎</a></li>
+        <li><a href="crocodilo-australiano.html">Crocodilo Australiano 🐊</a></li>
+        <li><a href="golfinho.html">Golfinho 🐬</a></li>
+        <li><a href="falcao-peregrino.html">Falcão-peregrino 🦅</a></li>
+        <li><a href="harpia.html">Harpia 🦅</a></li>
+        <li><a href="bem-te-vi.html">Bem-te-vi 🐦</a></li>
+        <li><a href="pombo.html">Pombo 🕊️</a></li>
+        <li><a href="arara-caninde.html">Arara-canindé 🦜</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <article>
+      <h2>Sobre a Onça-Pintada</h2>
+      <img src="images/onca-pintada.jpg" alt="Onça-Pintada" class="animal-image">
+      <ul class="facts">
+        <li><strong>Habitat:</strong> florestas tropicais, matas de galeria e áreas úmidas das Américas.</li>
+        <li><strong>Alimentação:</strong> carnívora, caçando capivaras, jacarés e outros vertebrados.</li>
+        <li><strong>Tipo de nascimento:</strong> vivíparo.</li>
+        <li><strong>Tempo de gestação:</strong> cerca de 3 a 4 meses.</li>
+        <li><strong>Quantidade de filhotes:</strong> 1 a 4 filhotes por ninhada.</li>
+        <li><strong>Desafio de vida:</strong> desmatamento e conflitos com humanos por perda de habitat.</li>
+        <li><strong>Curiosidades:</strong> possui a mordida mais forte entre os felinos, capaz de perfurar carapaças.</li>
+        <li><strong>Peso e tamanho médio:</strong> 56–96 kg, comprimento de 1,1 a 1,8 m sem a cauda.</li>
+      </ul>
+    </article>
+  </section>
+  <footer>
+    <p>&copy; 2025 Mundo Animal</p>
+  </footer>
+</body>
+</html>
+
+
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/pinguim-imperador.html ###
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pinguim-Imperador - Mundo Animal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🐧 Pinguim-Imperador</h1>
+        <nav>
+      <ul>
+        <li><a href="index.html">Início 🏠</a></li>
+        <li><a href="tigres.html">Tigres 🐅</a></li>
+        <li><a href="onca-pintada.html">Onça-Pintada 🐆</a></li>
+        <li><a href="lobos.html">Lobos 🐺</a></li>
+        <li><a href="camaleao.html">Camaleão 🦎</a></li>
+        <li><a href="canguru-vermelho.html">Canguru Vermelho 🦘</a></li>
+        <li><a href="lince-canadense.html">Lince Canadense 🐈‍⬛</a></li>
+        <li><a href="lemure.html">Lêmure 🐒</a></li>
+        <li><a href="esquilo.html">Esquilo 🐿️</a></li>
+        <li><a href="leao.html">Leão 🦁</a></li>
+        <li><a href="cavalo-marinho.html">Cavalo-marinho 🐠</a></li>
+        <li><a href="pinguim-imperador.html">Pinguim-Imperador 🐧</a></li>
+        <li><a href="lagartixa-leopardo.html">Lagartixa-leopardo 🦎</a></li>
+        <li><a href="lagartixa-azul-eletrica.html">Lagartixa Azul Elétrica 🦎</a></li>
+        <li><a href="lagartixa-ana.html">Lagartixa Ana 🦎</a></li>
+        <li><a href="lagartixa-tocai.html">Lagartixa Tokay 🦎</a></li>
+        <li><a href="crocodilo-australiano.html">Crocodilo Australiano 🐊</a></li>
+        <li><a href="golfinho.html">Golfinho 🐬</a></li>
+        <li><a href="falcao-peregrino.html">Falcão-peregrino 🦅</a></li>
+        <li><a href="harpia.html">Harpia 🦅</a></li>
+        <li><a href="bem-te-vi.html">Bem-te-vi 🐦</a></li>
+        <li><a href="pombo.html">Pombo 🕊️</a></li>
+        <li><a href="arara-caninde.html">Arara-canindé 🦜</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <article>
+      <h2>Sobre o Pinguim-Imperador</h2>
+      <img src="images/pinguim-imperador.jpg" alt="Pinguim-Imperador" class="animal-image">
+      <ul class="facts">
+        <li><strong>Habitat:</strong> gelo marinho e plataformas da Antártida.</li>
+        <li><strong>Alimentação:</strong> peixes, lulas e krill.</li>
+        <li><strong>Tipo de nascimento:</strong> ovíparo.</li>
+        <li><strong>Tempo de gestação:</strong> incubação de 64 dias aproximadamente.</li>
+        <li><strong>Quantidade de filhotes:</strong> 1 ovo por temporada.</li>
+        <li><strong>Desafio de vida:</strong> derretimento do gelo devido às mudanças climáticas.</li>
+        <li><strong>Curiosidades:</strong> mergulham a mais de 500 m e suportam frio extremo formando grupos compactos.</li>
+        <li><strong>Peso e tamanho médio:</strong> 22–45 kg; altura de 1,1 a 1,3 m.</li>
+      </ul>
+    </article>
+  </section>
+  <footer>
+    <p>&copy; 2025 Mundo Animal</p>
+  </footer>
+</body>
+</html>
+
+
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/pombo.html ###
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pombo - Mundo Animal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🕊️ Pombo</h1>
+        <nav>
+      <ul>
+        <li><a href="index.html">Início 🏠</a></li>
+        <li><a href="tigres.html">Tigres 🐅</a></li>
+        <li><a href="onca-pintada.html">Onça-Pintada 🐆</a></li>
+        <li><a href="lobos.html">Lobos 🐺</a></li>
+        <li><a href="camaleao.html">Camaleão 🦎</a></li>
+        <li><a href="canguru-vermelho.html">Canguru Vermelho 🦘</a></li>
+        <li><a href="lince-canadense.html">Lince Canadense 🐈‍⬛</a></li>
+        <li><a href="lemure.html">Lêmure 🐒</a></li>
+        <li><a href="esquilo.html">Esquilo 🐿️</a></li>
+        <li><a href="leao.html">Leão 🦁</a></li>
+        <li><a href="cavalo-marinho.html">Cavalo-marinho 🐠</a></li>
+        <li><a href="pinguim-imperador.html">Pinguim-Imperador 🐧</a></li>
+        <li><a href="lagartixa-leopardo.html">Lagartixa-leopardo 🦎</a></li>
+        <li><a href="lagartixa-azul-eletrica.html">Lagartixa Azul Elétrica 🦎</a></li>
+        <li><a href="lagartixa-ana.html">Lagartixa Ana 🦎</a></li>
+        <li><a href="lagartixa-tocai.html">Lagartixa Tokay 🦎</a></li>
+        <li><a href="crocodilo-australiano.html">Crocodilo Australiano 🐊</a></li>
+        <li><a href="golfinho.html">Golfinho 🐬</a></li>
+        <li><a href="falcao-peregrino.html">Falcão-peregrino 🦅</a></li>
+        <li><a href="harpia.html">Harpia 🦅</a></li>
+        <li><a href="bem-te-vi.html">Bem-te-vi 🐦</a></li>
+        <li><a href="pombo.html">Pombo 🕊️</a></li>
+        <li><a href="arara-caninde.html">Arara-canindé 🦜</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <article>
+      <h2>Sobre o Pombo</h2>
+      <img src="images/pombo.jpg" alt="Pombo" class="animal-image">
+      <ul class="facts">
+        <li><strong>Habitat:</strong> cidades, penhascos e áreas rurais em quase todo o mundo.</li>
+        <li><strong>Alimentação:</strong> sementes, grãos e restos de alimento urbano.</li>
+        <li><strong>Tipo de nascimento:</strong> ovíparo.</li>
+        <li><strong>Tempo de gestação:</strong> incubação de 17 a 19 dias.</li>
+        <li><strong>Quantidade de filhotes:</strong> geralmente 1 a 2 ovos por postura.</li>
+        <li><strong>Desafio de vida:</strong> predadores urbanos e doenças transmitidas entre bandos.</li>
+        <li><strong>Curiosidades:</strong> possuem excelente orientação, usando o campo magnético e o Sol.</li>
+        <li><strong>Peso e tamanho médio:</strong> 250–380 g; 30–35 cm de comprimento.</li>
+      </ul>
+    </article>
+  </section>
+  <footer>
+    <p>&copy; 2025 Mundo Animal</p>
+  </footer>
+</body>
+</html>
+
+
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/style.css ###
+/* Reset básico */
+body, h1, h2, p, ul, li, nav, header, footer, section, article, img {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Estilo geral do corpo */
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #08f5dd; /* Verde Turquesa */
+    color: #333;
+    padding: 20px;
+  }
+  
+  /* Cabeçalho */
+  header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  header h1 {
+    font-size: 2.5em;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin: 10px 0;
+    flex-wrap: wrap;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    padding: 6px 10px;
+    display: inline-block;
+    border-radius: 6px;
+    background: rgba(255,255,255,0.6);
+  }
+  
+  nav ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Seção principal */
+  section {
+    text-align: center;
+    margin: 20px auto;
+  }
+  
+  .grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px 0;
+  }
+  
+  .grid-item {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    overflow: hidden;
+    width: 300px;
+    transition: transform 0.3s ease;
+  }
+  
+  .grid-item:hover {
+    transform: scale(1.05);
+  }
+  
+  .grid-item img {
+    width: 100%;
+    display: block;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+  }
+  
+  .grid-item p {
+    padding: 10px;
+    font-size: 1.2em;
+  }
+  
+  /* Imagens das páginas internas */
+  .animal-image {
+    width: min(100%, 900px);
+    display: block;
+    margin: 0 auto 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  }
+  
+  .facts {
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    max-width: 900px;
+    text-align: left;
+    line-height: 1.7;
+  }
+  
+  .facts li {
+    margin-bottom: 10px;
+    background: #f8f8f8;
+    border-radius: 6px;
+    padding: 10px 12px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  }
+  
+  /* Rodapé */
+  footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 0.9em;
+  }
+  
+  /* Responsividade */
+  @media (max-width: 768px) {
+    .grid {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+
+
+### /Users/robinsongarcia/projects/IsaacBirthday/animal_website/tigres.html ###
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tigres - Mundo Animal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🐅 Tigres</h1>
+        <nav>
+      <ul>
+        <li><a href="index.html">Início 🏠</a></li>
+        <li><a href="tigres.html">Tigres 🐅</a></li>
+        <li><a href="onca-pintada.html">Onça-Pintada 🐆</a></li>
+        <li><a href="lobos.html">Lobos 🐺</a></li>
+        <li><a href="camaleao.html">Camaleão 🦎</a></li>
+        <li><a href="canguru-vermelho.html">Canguru Vermelho 🦘</a></li>
+        <li><a href="lince-canadense.html">Lince Canadense 🐈‍⬛</a></li>
+        <li><a href="lemure.html">Lêmure 🐒</a></li>
+        <li><a href="esquilo.html">Esquilo 🐿️</a></li>
+        <li><a href="leao.html">Leão 🦁</a></li>
+        <li><a href="cavalo-marinho.html">Cavalo-marinho 🐠</a></li>
+        <li><a href="pinguim-imperador.html">Pinguim-Imperador 🐧</a></li>
+        <li><a href="lagartixa-leopardo.html">Lagartixa-leopardo 🦎</a></li>
+        <li><a href="lagartixa-azul-eletrica.html">Lagartixa Azul Elétrica 🦎</a></li>
+        <li><a href="lagartixa-ana.html">Lagartixa Ana 🦎</a></li>
+        <li><a href="lagartixa-tocai.html">Lagartixa Tokay 🦎</a></li>
+        <li><a href="crocodilo-australiano.html">Crocodilo Australiano 🐊</a></li>
+        <li><a href="golfinho.html">Golfinho 🐬</a></li>
+        <li><a href="falcao-peregrino.html">Falcão-peregrino 🦅</a></li>
+        <li><a href="harpia.html">Harpia 🦅</a></li>
+        <li><a href="bem-te-vi.html">Bem-te-vi 🐦</a></li>
+        <li><a href="pombo.html">Pombo 🕊️</a></li>
+        <li><a href="arara-caninde.html">Arara-canindé 🦜</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <article>
+      <h2>Sobre o Tigre</h2>
+      <img src="images/tigre.jpg" alt="Tigre" class="animal-image">
+      <ul class="facts">
+        <li><strong>Habitat:</strong> florestas tropicais, savanas e taigas da Ásia, preferindo áreas com água e cobertura densa.</li>
+        <li><strong>Alimentação:</strong> carnívora, caçando cervos, javalis e outras presas de médio a grande porte.</li>
+        <li><strong>Tipo de nascimento:</strong> vivíparo.</li>
+        <li><strong>Tempo de gestação:</strong> cerca de 3 a 3,5 meses.</li>
+        <li><strong>Quantidade de filhotes:</strong> geralmente 2 a 4 filhotes por ninhada.</li>
+        <li><strong>Desafio de vida:</strong> perda de habitat e caça ilegal por pele e partes do corpo.</li>
+        <li><strong>Curiosidades:</strong> excelentes nadadores e podem percorrer longas distâncias atrás de presas.</li>
+        <li><strong>Peso e tamanho médio:</strong> 90–300 kg, comprimento de 2,5 a 3,9 m incluindo a cauda.</li>
+      </ul>
+    </article>
+  </section>
+  <footer>
+    <p>&copy; 2025 Mundo Animal</p>
+  </footer>
+</body>
+</html>
+
+
